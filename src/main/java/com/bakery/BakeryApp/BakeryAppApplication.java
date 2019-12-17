@@ -10,4 +10,7 @@ public class BakeryAppApplication {
 		SpringApplication.run(BakeryAppApplication.class, args);
 	}
 
+public void someMethod(){
+}
+
 }
